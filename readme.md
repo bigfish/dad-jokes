@@ -228,6 +228,6 @@ As in: OOPs I used Java!
 
 **Q:** Why did the computer go to the speech therapist?
 
-**A:** Because it had a bad LISP
+**A:** Because it had a LISP
 
 ---
